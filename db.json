@@ -1,0 +1,76 @@
+
+{
+    "films": [
+        {
+    
+            "id": 1,
+            "title": "Kuessipan",
+            "description" :"Nord du Québec. Mikuan et Shaniss, deux amies inséparables, grandissent dans une réserve de la communauté innue. Petites, elles se promettent de toujours rester ensemble. Mais à l’aube de leurs 17 ans, leurs aspirations semblent les éloigner : Shaniss fonde une famille, tandis que Mikuan tombe amoureuse d’un blanc et rêve de quitter cette réserve devenue trop petite pour elle...",
+            "categorie": { "id": 7, "name": "Drammatique" },
+            "auteurs": "Deraspe Sophie",
+            "image": "./img/kuessipan.jpg"
+           
+          },
+          {
+            "id": 2,
+            "title": "Antigone",
+            "description":"Antigone est une adolescente brillante au parcours sans accroc. En aidant son frère à s'évader de prison, elle agit au nom de sa propre justice, celle de l'amour et la solidarité.Désormais en marge de la loi des hommes, Antigone devient l'héroïne de toute une génération et pour les autorités, le symbole d'une rébellion à canaliser...",
+            "categorie": { "id": 2, "name": "Commique" },
+            "auteurs": "Deraspe Sophie"
+          },
+          {
+            "id": 3,
+            "title": "Nadia Butterfly",
+            "description":"Nadia, 23 ans, prend la décision controversée de se retirer de la natation professionnelle après les Jeux olympiques; afin de fuir une vie de sacrifice. Après sa dernière course, Nadia dérape dans les nuits d'excès, mais cet étourdissement transitoire ne peut toutefois pas occulter sa réelle quête intérieure: définir son identité en ...",
+            "categorie": { "id": 2, "name": "Comique" },
+            "auteurs": "Plante Pascal"
+          },
+          {
+            "id": 4,
+            "title": "Les faux tatouage",
+            "description ":"Theo fête ses 18 ans seul à boire à un concert de ...",
+            "categorie": { "id": 6, "name": "Horreur" },
+            "auteurs": "Plante Pascal"
+          },
+         
+          {
+            "id": 5,
+            "title": "The good criminal",
+            "description":"Tom, un légendaire voleur de banque décide de se ranger et passe un deal, contre son immunité, avec le FBI qui n’a jamais réussi à lui mettre la main dessus. Il réalise vite que les Fédéraux ont un autre plan en tête : partager son butin et le faire accuser d’un meurtre. Pris au piège, pourchassé par la police et le FBI, il décide de reprendre les choses en main et se lance dans une vengeance explosive.",
+            "categorie": { "id": 4, "name": "Aventure" },
+            "auteurs": "Williams Mark"
+          },
+          {
+            "id": 6,
+            "title": "Last call",
+            "description":"Un chasseur de têtes dont la carrière est à son apogée s'apprête à prendre la tête de son entreprise quand son fils de 10 ans tombe gravement malade.",
+            "categorie": { "id": 6, "name": "Horreur" },
+            "auteurs": "Williams Mark"
+          }
+    ],
+
+    "auteurs": [
+        {
+            "id": 1,
+            "auteurs": "Deraspe Sophie"
+          },
+          {
+              "id": 2,
+              "auteurs": "Plante Pascal"
+            },
+            {
+              "id": 3,
+              "auteurs": "Williams Mark"
+            }
+    ],
+
+    "categories": [
+        { "id": 1, "name": "Action" },
+  { "id": 2, "name": "Comique" },
+  { "id": 3, "name": "Romance" },
+  { "id": 4, "name": "Adventure" },
+  { "id": 5, "name": "Drole" },
+  { "id": 6, "name": "Horreur" },
+  { "id": 7, "name": "Drammatique" }
+    ]
+  }
