@@ -27,7 +27,7 @@
           {
             "id": 4,
             "title": "Les faux tatouage",
-            "description ":"Theo fête ses 18 ans seul à boire à un concert de ...",
+            "description":"Theo fête ses 18 ans seul à boire à un concert de ...",
             "categorie": { "id": 6, "name": "Horreur" },
             "auteurs": "Plante Pascal"
           },
