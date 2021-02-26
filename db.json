@@ -71,5 +71,8 @@
   { "id": 5, "name": "Drole" },
   { "id": 6, "name": "Horreur" },
   { "id": 7, "name": "Drammatique" }
-    ]
+    ],
+    
+   "login":[
+       {"id":1, "username":"admin","password":"admin"}
   }
